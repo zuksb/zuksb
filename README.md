@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**zuksb/zuksb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Zuks
 
-Here are some ideas to get you started:
+I'm currently studying **Python programming** and focusing on building a solid foundation in logic, computer theory, and gradual practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm studying
+- Python (fundamentals)
+- Programming logic
+- Basic data structures
+- How computers work (theoretical concepts)
+- A little math applied to programming
+
+## 🛠️ What you will find here
+- Study exercises
+- Small projects in Python
+- Tests, experiments, and simple code
+- Repositories used as learning notebooks
+
+Nothing here is a “final product.” It's a process.
+
+## 🎯 Objective
+To learn programming consistently, understanding **why things work the way they do**, not just copying code.
+
+## 📚 In progress
+- Continuous, non-linear study
+- Weekly practice with small projects
+- Frequent reviews of concepts learned
+
+---
+📌 *This profile represents learning in progress.*
+
+Translated with DeepL.com (free version)
+
